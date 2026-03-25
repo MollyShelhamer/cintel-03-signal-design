@@ -95,7 +95,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-03-signal-design
+git clone https://github.com/MollyShelhamer/cintel-03-signal-design
 
 cd cintel-03-signal-design
 code .

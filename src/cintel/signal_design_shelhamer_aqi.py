@@ -1,7 +1,7 @@
 """
-signal_design_aqi.py - AQI Signal Pipeline
+signal_design_shelhamer_aqi.py - AQI Signal Pipeline
 
-Author: Your Name
+Author: Molly Shelhamer
 Date: 2026-03
 
 Dataset:

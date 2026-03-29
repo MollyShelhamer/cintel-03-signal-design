@@ -125,6 +125,14 @@ git push -u origin main
 
 </details>
 
+## Phase 4 Modification
+- Pushed existing step 2.7 to 2.8 to create a new signal recipe
+- New step 2.7: Create signal recipe for error density
+- Added to data frame as a new column
+
+## Phase 5 Custom Project
+
+
 ## Notes
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.

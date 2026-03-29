@@ -160,3 +160,87 @@
 2026-03-29 11:40:12 | INFO | P3 | Pipeline executed successfully!
 2026-03-29 11:40:12 | INFO | P3 | ========================
 2026-03-29 11:40:12 | INFO | P3 | END main()
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | === RUN START ===
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | project=AQI SIGNAL PIPELINE
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | repo_dir=cintel-03-signal-design
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | python=3.14.3
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | os=Windows 10
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | shell=powershell
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | cwd=.
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | github_actions=False
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | START main()
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | DATA_FILE = data\annual_aqi_by_county_2025.csv
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | OUTPUT_FILE = artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:10:35 | INFO | AQI_PIPELINE | Loaded 978 AQI records
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | === RUN START ===
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | project=AQI SIGNAL PIPELINE
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | repo_dir=cintel-03-signal-design
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | python=3.14.3
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | os=Windows 10
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | shell=powershell
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | cwd=.
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | github_actions=False
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | START main()
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | DATA_FILE = data\annual_aqi_by_county_2025.csv
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | OUTPUT_FILE = artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:12:57 | INFO | AQI_PIPELINE | Loaded 978 AQI records
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | === RUN START ===
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | project=AQI SIGNAL PIPELINE
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | repo_dir=cintel-03-signal-design
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | python=3.14.3
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | os=Windows 10
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | shell=powershell
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | cwd=.
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | github_actions=False
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | START main()
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | DATA_FILE = data\annual_aqi_by_county_2025.csv
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | OUTPUT_FILE = artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | Loaded 978 AQI records
+2026-03-29 12:15:30 | INFO | AQI_PIPELINE | Columns detected: ['State\tCounty\tYear\tDays with AQI\tGood Days\tModerate Days\tUnhealthy for Sensitive Groups Days\tUnhealthy Days\tVery Unhealthy Days\tHazardous Days\tMax AQI\t90th Percentile AQI\tMedian AQI\tDays CO\tDays NO2\tDays Ozone\tDays PM2.5\tDays PM10']
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | === RUN START ===
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | project=AQI SIGNAL PIPELINE
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | repo_dir=cintel-03-signal-design
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | python=3.14.3
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | os=Windows 10
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | shell=powershell
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | cwd=.
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | github_actions=False
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | START main()
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | DATA_FILE = data\annual_aqi_by_county_2025.csv
+2026-03-29 12:18:35 | INFO | AQI_PIPELINE | OUTPUT_FILE = artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | === RUN START ===
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | project=AQI SIGNAL PIPELINE
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | repo_dir=cintel-03-signal-design
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | python=3.14.3
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | os=Windows 10
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | shell=powershell
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | cwd=.
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | github_actions=False
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | START main()
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | DATA_FILE = data\annual_aqi_by_county_2025.csv
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | OUTPUT_FILE = artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | Loaded 978 AQI records
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | Columns detected: ['State', 'County', 'Year', 'Days with AQI', 'Good Days', 'Moderate Days', 'Unhealthy for Sensitive Groups Days', 'Unhealthy Days', 'Very Unhealthy Days', 'Hazardous Days', 'Max AQI', '90th Percentile AQI', 'Median AQI', 'Days CO', 'Days NO2', 'Days Ozone', 'Days PM2.5', 'Days PM10']
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | Signal columns created successfully
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | Final dataset has 978 rows
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | Saved output to C:\Repos\cintel-03-signal-design\artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | Pipeline executed successfully!
+2026-03-29 12:19:11 | INFO | AQI_PIPELINE | END main()
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | === RUN START ===
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | project=AQI SIGNAL PIPELINE
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | repo_dir=cintel-03-signal-design
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | python=3.14.3
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | os=Windows 10
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | shell=powershell
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | cwd=.
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | github_actions=False
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | START main()
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | DATA_FILE = data\annual_aqi_by_county_2025.csv
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | OUTPUT_FILE = artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | Loaded 978 AQI records
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | Columns detected: ['State', 'County', 'Year', 'Days with AQI', 'Good Days', 'Moderate Days', 'Unhealthy for Sensitive Groups Days', 'Unhealthy Days', 'Very Unhealthy Days', 'Hazardous Days', 'Max AQI', '90th Percentile AQI', 'Median AQI', 'Days CO', 'Days NO2', 'Days Ozone', 'Days PM2.5', 'Days PM10']
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | Signal columns created successfully
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | Final dataset has 978 rows
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | Saved output to C:\Repos\cintel-03-signal-design\artifacts\signals_shelhamer_aqi.csv
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | Pipeline executed successfully!
+2026-03-29 12:20:44 | INFO | AQI_PIPELINE | END main()
